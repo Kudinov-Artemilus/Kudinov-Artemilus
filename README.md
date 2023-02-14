@@ -3,5 +3,7 @@
 <h3 align="center">Computer science, IT news writer from Qazaqstan🇰🇿</h3>
 
 
+<h1 align="center">About me</h1>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
